@@ -25,3 +25,5 @@ YOLOv8 boasts a variety of other innovations, in addition to its extensibility, 
 Overall, YOLOv8 is a powerful and versatile tool for object detection and image segmentation that provides the best of both worlds: the most recent SOTA technology as well as the ability to use and compare all previous YOLO versions.
 
 ## Speech bubble 
+
+There are multiple examples of manga pages with various art styles in the training set. As we stated before, the speech bubbles in these images vary from one art style to another. A speech bubble's many shapes can be grouped into several main classifications, including ellipses, clouds, sea urchin, thorns, and rectangles. These forms are the basic building blocks for speech bubbles on manga pages.
